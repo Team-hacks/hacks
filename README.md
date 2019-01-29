@@ -4,4 +4,4 @@ Sabina Maharjan
 Jeffery Kong
 Vincent Hu
 David Carr
-Muhamed Ali
+Mohamed Ali
